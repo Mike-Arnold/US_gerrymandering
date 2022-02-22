@@ -1,0 +1,56 @@
+STATE,POSTAL,STATEFP,COLOR
+Alabama,AL,1,5
+Alaska,AK,2,5
+Arizona,AZ,4,6
+Arkansas,AR,5,1
+California,CA,6,4
+Colorado,CO,8,4
+Connecticut,CT,9,2
+Delaware,DE,10,5
+Florida,FL,12,6
+Georgia,GA,13,2
+Hawaii,HI,15,1
+Idaho,ID,16,5
+Illinois,IL,17,5
+Indiana,IN,18,1
+Iowa,IA,19,3
+Kansas,KS,20,5
+Kentucky,KY,21,2
+Louisiana,LA,22,4
+Maine,ME,23,2
+Maryland,MD,24,2
+Massachusetts,MA,25,6
+Michigan,MI,26,4
+Minnesota,MN,27,1
+Mississippi,MS,28,6
+Missouri,MO,29,6
+Montana,MT,30,3
+Nebraska,NE,31,2
+Nevada,NV,32,2
+New Hampshire,NH,33,1
+New Jersey,NJ,34,1
+New Mexico,NM,35,1
+New York,NY,36,4
+North Carolina,NC,37,5
+North Dakota,ND,38,6
+Ohio,OH,39,6
+Oklahoma,OK,40,3
+Oregon,OR,41,1
+Pennsylvania,PA,42,3
+Rhode Island,RI,44,5
+South Carolina,SC,45,4
+South Dakota,SD,46,4
+Tennessee,TN,47,3
+Texas,TX,48,2
+Utah,UT,49,3
+Vermont,VT,50,3
+Virginia,VA,51,4
+Washington,WA,53,6
+West Virginia,WV,54,1
+Wisconsin,WI,55,2
+Wyoming,WY,56,1
+American Samoa,AS,60,1
+Guam,GU,66,2
+Northern Mariana Islands,MP,69,3
+Puerto Rico,PR,72,4
+Virgin Islands,VI,78,5
